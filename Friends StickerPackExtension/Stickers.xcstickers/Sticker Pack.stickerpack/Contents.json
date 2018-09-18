@@ -1,4 +1,810 @@
 {
+  "stickers" : [
+    {
+      "filename" : "friends_chi.sticker"
+    },
+    {
+      "filename" : "allheart.sticker"
+    },
+    {
+      "filename" : "baffled.sticker"
+    },
+    {
+      "filename" : "bam bam.sticker"
+    },
+    {
+      "filename" : "big time.sticker"
+    },
+    {
+      "filename" : "bigbiz.sticker"
+    },
+    {
+      "filename" : "bootleg.sticker"
+    },
+    {
+      "filename" : "bunk.sticker"
+    },
+    {
+      "filename" : "blessing.sticker"
+    },
+    {
+      "filename" : "bloody.sticker"
+    },
+    {
+      "filename" : "cometolife.sticker"
+    },
+    {
+      "filename" : "cry baby.sticker"
+    },
+    {
+      "filename" : "deep.sticker"
+    },
+    {
+      "filename" : "disgusting.sticker"
+    },
+    {
+      "filename" : "dizzy.sticker"
+    },
+    {
+      "filename" : "etiquette.sticker"
+    },
+    {
+      "filename" : "exposed.sticker"
+    },
+    {
+      "filename" : "funny.sticker"
+    },
+    {
+      "filename" : "friend.sticker"
+    },
+    {
+      "filename" : "andfriends.sticker"
+    },
+    {
+      "filename" : "girls wanted.sticker"
+    },
+    {
+      "filename" : "guts.sticker"
+    },
+    {
+      "filename" : "haha.sticker"
+    },
+    {
+      "filename" : "heads.sticker"
+    },
+    {
+      "filename" : "homie.sticker"
+    },
+    {
+      "filename" : "lonesome.sticker"
+    },
+    {
+      "filename" : "lover.sticker"
+    },
+    {
+      "filename" : "its art.sticker"
+    },
+    {
+      "filename" : "gawd.sticker"
+    },
+    {
+      "filename" : "K.sticker"
+    },
+    {
+      "filename" : "mad.sticker"
+    },
+    {
+      "filename" : "mysterious.sticker"
+    },
+    {
+      "filename" : "no fear.sticker"
+    },
+    {
+      "filename" : "ok.sticker"
+    },
+    {
+      "filename" : "plop!.sticker"
+    },
+    {
+      "filename" : "thumpn.sticker"
+    },
+    {
+      "filename" : "rejected.sticker"
+    },
+    {
+      "filename" : "rotten.sticker"
+    },
+    {
+      "filename" : "sensation.sticker"
+    },
+    {
+      "filename" : "shadows.sticker"
+    },
+    {
+      "filename" : "swish.sticker"
+    },
+    {
+      "filename" : "unseen.sticker"
+    },
+    {
+      "filename" : "skinnny.sticker"
+    },
+    {
+      "filename" : "no shit.sticker"
+    },
+    {
+      "filename" : "trulyneed.sticker"
+    },
+    {
+      "filename" : "redacted1.sticker"
+    },
+    {
+      "filename" : "war.sticker"
+    },
+    {
+      "filename" : "tattt.sticker"
+    },
+    {
+      "filename" : "frame2.sticker"
+    },
+    {
+      "filename" : "frame 1.sticker"
+    },
+    {
+      "filename" : "goup.sticker"
+    },
+    {
+      "filename" : "bubbler.sticker"
+    },
+    {
+      "filename" : "frame 4.sticker"
+    },
+    {
+      "filename" : "foggy.sticker"
+    },
+    {
+      "filename" : "kind snake.sticker"
+    },
+    {
+      "filename" : "ouroboros.sticker"
+    },
+    {
+      "filename" : "coinstack.sticker"
+    },
+    {
+      "filename" : "kind.sticker"
+    },
+    {
+      "filename" : "sssss.sticker"
+    },
+    {
+      "filename" : "extreme.sticker"
+    },
+    {
+      "filename" : "wrestlers.sticker"
+    },
+    {
+      "filename" : "no bullying.sticker"
+    },
+    {
+      "filename" : "no bullies.sticker"
+    },
+    {
+      "filename" : "yellowguy.sticker"
+    },
+    {
+      "filename" : "knowledge is power.sticker"
+    },
+    {
+      "filename" : "hand.sticker"
+    },
+    {
+      "filename" : "thank you.sticker"
+    },
+    {
+      "filename" : "Dont_Tread_On_Me_T.sticker"
+    },
+    {
+      "filename" : "thinred.sticker"
+    },
+    {
+      "filename" : "spiral.sticker"
+    },
+    {
+      "filename" : "bombboy.sticker"
+    },
+    {
+      "filename" : "A.sticker"
+    },
+    {
+      "filename" : "tothemoonn.sticker"
+    },
+    {
+      "filename" : "png.sticker"
+    },
+    {
+      "filename" : "jester.sticker"
+    },
+    {
+      "filename" : "booger.sticker"
+    },
+    {
+      "filename" : "peepee.sticker"
+    },
+    {
+      "filename" : "tiphat.sticker"
+    },
+    {
+      "filename" : "kissy.sticker"
+    },
+    {
+      "filename" : "softflight.sticker"
+    },
+    {
+      "filename" : "adam.sticker"
+    },
+    {
+      "filename" : "flyingmachine.sticker"
+    },
+    {
+      "filename" : "firebird.sticker"
+    },
+    {
+      "filename" : "apeface.sticker"
+    },
+    {
+      "filename" : "develish.sticker"
+    },
+    {
+      "filename" : "exportme.sticker"
+    },
+    {
+      "filename" : "attention.sticker"
+    },
+    {
+      "filename" : "brickman.sticker"
+    },
+    {
+      "filename" : "hot hot hot.sticker"
+    },
+    {
+      "filename" : "moogba.sticker"
+    },
+    {
+      "filename" : "coffin.sticker"
+    },
+    {
+      "filename" : "womn.sticker"
+    },
+    {
+      "filename" : "tail.sticker"
+    },
+    {
+      "filename" : "monkeygod.sticker"
+    },
+    {
+      "filename" : "smile.sticker"
+    },
+    {
+      "filename" : "skul.sticker"
+    },
+    {
+      "filename" : "puppy.sticker"
+    },
+    {
+      "filename" : "mouse copy.sticker"
+    },
+    {
+      "filename" : "hands.sticker"
+    },
+    {
+      "filename" : "aokay.sticker"
+    },
+    {
+      "filename" : "grassisgreen.sticker"
+    },
+    {
+      "filename" : "dancystars.sticker"
+    },
+    {
+      "filename" : "flyingmoney.sticker"
+    },
+    {
+      "filename" : "flyinghead.sticker"
+    },
+    {
+      "filename" : "fall.sticker"
+    },
+    {
+      "filename" : "fakenews.sticker"
+    },
+    {
+      "filename" : "baggg.sticker"
+    },
+    {
+      "filename" : "smog man.sticker"
+    },
+    {
+      "filename" : "triumph.sticker"
+    },
+    {
+      "filename" : "catchme.sticker"
+    },
+    {
+      "filename" : "chase.sticker"
+    },
+    {
+      "filename" : "endghoul.sticker"
+    },
+    {
+      "filename" : "hopi.sticker"
+    },
+    {
+      "filename" : "pollen.sticker"
+    },
+    {
+      "filename" : "saxman.sticker"
+    },
+    {
+      "filename" : "berryberry.sticker"
+    },
+    {
+      "filename" : "blobber.sticker"
+    },
+    {
+      "filename" : "devilmask.sticker"
+    },
+    {
+      "filename" : "doublehead.sticker"
+    },
+    {
+      "filename" : "handsy.sticker"
+    },
+    {
+      "filename" : "hattip.sticker"
+    },
+    {
+      "filename" : "hiding.sticker"
+    },
+    {
+      "filename" : "monkey_barrel.sticker"
+    },
+    {
+      "filename" : "pupmask.sticker"
+    },
+    {
+      "filename" : "scaretactic.sticker"
+    },
+    {
+      "filename" : "snowhorse.sticker"
+    },
+    {
+      "filename" : "talon.sticker"
+    },
+    {
+      "filename" : "wounded.sticker"
+    },
+    {
+      "filename" : "clovekid.sticker"
+    },
+    {
+      "filename" : "harlequin.sticker"
+    },
+    {
+      "filename" : "pusser.sticker"
+    },
+    {
+      "filename" : "floatingcurse.sticker"
+    },
+    {
+      "filename" : "tiger.sticker"
+    },
+    {
+      "filename" : "shroomer.sticker"
+    },
+    {
+      "filename" : "pngp.sticker"
+    },
+    {
+      "filename" : "dog.sticker"
+    },
+    {
+      "filename" : "bunny.sticker"
+    },
+    {
+      "filename" : "freak.sticker"
+    },
+    {
+      "filename" : "balloon.sticker"
+    },
+    {
+      "filename" : "stache.sticker"
+    },
+    {
+      "filename" : "highthere.sticker"
+    },
+    {
+      "filename" : "clown.sticker"
+    },
+    {
+      "filename" : "smallestviolin.sticker"
+    },
+    {
+      "filename" : "ergobones.sticker"
+    },
+    {
+      "filename" : "shootdown.sticker"
+    },
+    {
+      "filename" : "flyboy.sticker"
+    },
+    {
+      "filename" : "skully.sticker"
+    },
+    {
+      "filename" : "twisty.sticker"
+    },
+    {
+      "filename" : "supine.sticker"
+    },
+    {
+      "filename" : "goofball.sticker"
+    },
+    {
+      "filename" : "HAdes.sticker"
+    },
+    {
+      "filename" : "ghoul.sticker"
+    },
+    {
+      "filename" : "gargoyle.sticker"
+    },
+    {
+      "filename" : "falling tree.sticker"
+    },
+    {
+      "filename" : "smoker.sticker"
+    },
+    {
+      "filename" : "cattykitty.sticker"
+    },
+    {
+      "filename" : "Untitled-3.sticker"
+    },
+    {
+      "filename" : "Untitled-2.sticker"
+    },
+    {
+      "filename" : "p.sticker"
+    },
+    {
+      "filename" : "man.sticker"
+    },
+    {
+      "filename" : "swat.sticker"
+    },
+    {
+      "filename" : "tiptoes.sticker"
+    },
+    {
+      "filename" : "flophead.sticker"
+    },
+    {
+      "filename" : "machinko.sticker"
+    },
+    {
+      "filename" : "dumbbunny.sticker"
+    },
+    {
+      "filename" : "cauldron.sticker"
+    },
+    {
+      "filename" : "crossed.sticker"
+    },
+    {
+      "filename" : "richy.sticker"
+    },
+    {
+      "filename" : "icey.sticker"
+    },
+    {
+      "filename" : "dynamite.sticker"
+    },
+    {
+      "filename" : "theend.sticker"
+    },
+    {
+      "filename" : "drowsy.sticker"
+    },
+    {
+      "filename" : "nosey.sticker"
+    },
+    {
+      "filename" : "tamale.sticker"
+    },
+    {
+      "filename" : "tits tv.sticker"
+    },
+    {
+      "filename" : "angel.sticker"
+    },
+    {
+      "filename" : "storm.sticker"
+    },
+    {
+      "filename" : "grapes.sticker"
+    },
+    {
+      "filename" : "ice cubes.sticker"
+    },
+    {
+      "filename" : "bird hands.sticker"
+    },
+    {
+      "filename" : "paint pot.sticker"
+    },
+    {
+      "filename" : "nervous.sticker"
+    },
+    {
+      "filename" : "scary.sticker"
+    },
+    {
+      "filename" : "bird.sticker"
+    },
+    {
+      "filename" : "waiter.sticker"
+    },
+    {
+      "filename" : "face 2.sticker"
+    },
+    {
+      "filename" : "monsters.sticker"
+    },
+    {
+      "filename" : "shittersmile.sticker"
+    },
+    {
+      "filename" : "yuggy.sticker"
+    },
+    {
+      "filename" : "legs.sticker"
+    },
+    {
+      "filename" : "saucerchase.sticker"
+    },
+    {
+      "filename" : "popcorn.sticker"
+    },
+    {
+      "filename" : "cherries.sticker"
+    },
+    {
+      "filename" : "antfam.sticker"
+    },
+    {
+      "filename" : "bullett.sticker"
+    },
+    {
+      "filename" : "goodman.sticker"
+    },
+    {
+      "filename" : "verdant.sticker"
+    },
+    {
+      "filename" : "syringe.sticker"
+    },
+    {
+      "filename" : "drophole.sticker"
+    },
+    {
+      "filename" : "fishyboy.sticker"
+    },
+    {
+      "filename" : "toes.sticker"
+    },
+    {
+      "filename" : "googly.sticker"
+    },
+    {
+      "filename" : "treeclimb.sticker"
+    },
+    {
+      "filename" : "spooning.sticker"
+    },
+    {
+      "filename" : "voyage.sticker"
+    },
+    {
+      "filename" : "soldjaboy.sticker"
+    },
+    {
+      "filename" : "boyboy.sticker"
+    },
+    {
+      "filename" : "angel_peak.sticker"
+    },
+    {
+      "filename" : "monkey_smirk.sticker"
+    },
+    {
+      "filename" : "dunce.sticker"
+    },
+    {
+      "filename" : "baghead.sticker"
+    },
+    {
+      "filename" : "zoomcase.sticker"
+    },
+    {
+      "filename" : "wizardry.sticker"
+    },
+    {
+      "filename" : "skullthinker.sticker"
+    },
+    {
+      "filename" : "sheetcat.sticker"
+    },
+    {
+      "filename" : "tossedduck.sticker"
+    },
+    {
+      "filename" : "witchdoc.sticker"
+    },
+    {
+      "filename" : "kittyjump.sticker"
+    },
+    {
+      "filename" : "guru.sticker"
+    },
+    {
+      "filename" : "boo.sticker"
+    },
+    {
+      "filename" : "mummy.sticker"
+    },
+    {
+      "filename" : "knife.sticker"
+    },
+    {
+      "filename" : "dice.sticker"
+    },
+    {
+      "filename" : "tongueboy.sticker"
+    },
+    {
+      "filename" : "theboxer.sticker"
+    },
+    {
+      "filename" : "monstergoose.sticker"
+    },
+    {
+      "filename" : "bazzini.sticker"
+    },
+    {
+      "filename" : "lighttape.sticker"
+    },
+    {
+      "filename" : "scotch.sticker"
+    },
+    {
+      "filename" : "redact6.sticker"
+    },
+    {
+      "filename" : "redact5.sticker"
+    },
+    {
+      "filename" : "redact4.sticker"
+    },
+    {
+      "filename" : "redact3.sticker"
+    },
+    {
+      "filename" : "redact2.sticker"
+    },
+    {
+      "filename" : "redact1.sticker"
+    },
+    {
+      "filename" : "baller.sticker"
+    },
+    {
+      "filename" : "blob1.sticker"
+    },
+    {
+      "filename" : "blob2.sticker"
+    },
+    {
+      "filename" : "blurboys.sticker"
+    },
+    {
+      "filename" : "carmush.sticker"
+    },
+    {
+      "filename" : "cottoncandyface.sticker"
+    },
+    {
+      "filename" : "crack.sticker"
+    },
+    {
+      "filename" : "cwycwy.sticker"
+    },
+    {
+      "filename" : "doghouse.sticker"
+    },
+    {
+      "filename" : "doldrums.sticker"
+    },
+    {
+      "filename" : "drawme.sticker"
+    },
+    {
+      "filename" : "drip.sticker"
+    },
+    {
+      "filename" : "dumpty.sticker"
+    },
+    {
+      "filename" : "farewellflop.sticker"
+    },
+    {
+      "filename" : "fingerwiz.sticker"
+    },
+    {
+      "filename" : "gonzofur.sticker"
+    },
+    {
+      "filename" : "halloo.sticker"
+    },
+    {
+      "filename" : "handprint.sticker"
+    },
+    {
+      "filename" : "keyhole.sticker"
+    },
+    {
+      "filename" : "kickflipgreenie.sticker"
+    },
+    {
+      "filename" : "ladder.sticker"
+    },
+    {
+      "filename" : "monkeygun.sticker"
+    },
+    {
+      "filename" : "new.sticker"
+    },
+    {
+      "filename" : "peeps.sticker"
+    },
+    {
+      "filename" : "pidgey.sticker"
+    },
+    {
+      "filename" : "piggycouldron.sticker"
+    },
+    {
+      "filename" : "polarbear.sticker"
+    },
+    {
+      "filename" : "sipper.sticker"
+    },
+    {
+      "filename" : "sleepypups.sticker"
+    },
+    {
+      "filename" : "splash.sticker"
+    },
+    {
+      "filename" : "stars.sticker"
+    },
+    {
+      "filename" : "suicide.sticker"
+    },
+    {
+      "filename" : "tushy.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
